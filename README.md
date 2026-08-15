@@ -1,137 +1,104 @@
-👩‍💻 Sapuni Madhushika Pathirana
-💻 Bachelor of Information Technology (Undergraduate)
+Hi, I'm Sapuni Pathirana 👋
+Software Engineering Intern | AI/ML Intern | Full Stack Developer Intern
 
-🎯 Aspiring Cloud Engineer | 🌐 Full-Stack Developer | 📱 Mobile App Developer
+I'm an Information Technology undergraduate at the University of Moratuwa, passionate about building practical software solutions and exploring Artificial Intelligence, Machine Learning, and modern full-stack development.
 
-👋 About Me
+I enjoy turning real-world problems into scalable applications by combining software engineering with AI-powered technologies.
 
-I am a passionate IT undergraduate currently starting my second-year studies in the Bachelor of Information Technology program. I enjoy building real-world software solutions that solve practical business problems.
+🚀 About Me
+💻 Interested in Software Engineering and Full Stack Development
+🤖 Passionate about Artificial Intelligence and Machine Learning
+🧠 Exploring Generative AI, LLMs, RAG, and Multi-Agent Systems
+🌐 Experienced in building web and mobile applications
+🔧 Interested in REST APIs, backend systems, and database-driven applications
+📚 Continuously learning modern technologies and emerging areas of software development
+🛠️ Tech Stack
 
-I have experience developing:
+Languages: Python, Java, JavaScript, TypeScript, C#
 
-🏨 Hotel Management & Services Web Applications
+Frontend: React, Next.js, Vite, Tailwind CSS
 
-🍽️ Restaurant Multi-Page Websites
+Backend: FastAPI, Spring Boot, Node.js, Express.js, NestJS, Django
 
-📊 ERP System for Auditing & Valuation Companies
+AI/ML: scikit-learn, XGBoost, LightGBM, PyTorch, MLflow, RAG, LLMs, Multi-Agent AI, Explainable AI, Computer Vision
 
-📱 Mobile Applications for Field Officers
+Databases: PostgreSQL, MongoDB, Redis, SQLAlchemy, Prisma, ChromaDB
 
-🤖 ESP32 Obstacle Avoiding Car Project
+Tools: Docker, Git, GitHub, Postman, REST APIs, JWT, OAuth
 
-I am particularly interested in Cloud Engineering, Backend Development, and System Architecture Design.
+🌟 Featured Projects
+🤖 AnalytistAI
 
-🚀 Current Project
-📌 Auditra ERP System (Auditing & Valuation ERP)
+Multi-Agent AI Decision Intelligence Platform
 
-A centralized ERP system designed to streamline auditing operations including:
+An AI platform for automated data analysis, ML model training, forecasting, computer vision, document Q&A, explainable AI, and report generation. Uses lightweight domain agents for Agriculture, Healthcare, and Logistics with a shared AI core.
 
-Role-Based Access Control (RBAC)
+Tech: React, TypeScript, FastAPI, Python, scikit-learn, XGBoost, PyTorch, ChromaDB, SHAP/LIME, MLflow
 
-Multi-level approval workflows
+🔗 Repository
 
-Secure authentication (OAuth 2.0 + JWT)
+🎯 CareerSucceX
 
-Field data capture with mobile app
+AI Career Readiness Platform
 
-Offline data synchronization
+A full-stack AI platform combining CV analysis, GitHub portfolio review, mock interviews, skill verification, and personalized learning roadmaps. Uses the user's target role to provide role-specific feedback and evidence-based skill assessment.
 
-Audit log tracking
+Tech: React, TypeScript, Spring Boot, FastAPI, PostgreSQL, Redis, Docker, JWT, OAuth, Groq, Gemini
 
-Centralized business logic
+🔗 Repository
 
-🛠 Tech Stack
+🧠 Quizzly
 
-Backend:
+AI-Powered Learning Hub
 
-Python
+An AI-powered learning platform that transforms course materials into summaries, mind maps, flashcards, and quizzes, providing students with a centralized interactive learning environment.
 
-Django
+Tech: React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, Redis, JWT, Docker
 
-Django REST Framework
+🌐 Live Website
 
-Frontend (Web):
+🌍 Piyoway
 
-React.js
+Tourist Guide Platform
 
-HTML5
+A tourism platform combining destination discovery, listings, itinerary planning, reviews, and administrative management into a single PWA-ready application.
 
-CSS3
+Tech: Next.js, TypeScript, NestJS, PostgreSQL, Prisma, Tailwind CSS
 
-JavaScript
+🔗 Repository
 
-Mobile App:
+📊 Auditra
 
-React Native
+Auditing & Valuation ERP
 
-Database:
+A full-stack ERP designed to centralize property valuation and project management, including role-based access and mobile field data collection.
 
-PostgreSQL / SQLite
+Tech: Flutter, Django, PostgreSQL, REST API
 
-🌐 Other Web Projects
-🏨 Hotel Website
+🔗 Repository
 
-Services page with event venue selection
+🎮 Shiny Minds
 
-Dynamic meal menu options
+Educational Simulation Game
 
-Fake Google Maps integration
+An interactive educational game focused on life skills, emotional development, and child safety awareness through gameplay.
 
-Responsive UI design
+Tech: Unity, C#, Blender
 
-☕ Café Zee Restaurant Website
+🔗 Repository
 
-Multi-page structured website
+🎯 Areas of Interest
 
-Category-based menu navigation
-
-Testimonials with audio/video
-
-Contact form implementation
-
-📡 Technical Interests
-
-Cloud Computing (AWS – learning phase)
-
-REST API Development
-
-Database Design (ER Diagrams)
-
-Data Communication & Networking
-
-System Security & Authentication
-
-Mobile App Architecture
-
-🔧 Skills
-
-Frontend Development (React, HTML, CSS)
-
-Backend Development (Django)
-
-API Development
-
-Database Modeling
-
-Git & GitHub
-
-Agile & Scrum (Single developer workflow)
-
-📚 Academic Interests
-
-Data Communication
-
-Fourier Series & Signal Analysis
-
-System Design & Architecture
-
-Software Engineering
-
-🎯 Career Goal
-
-To become a skilled Cloud Engineer and design scalable, secure, and efficient enterprise systems that support real-world business operations.
+Software Engineering • Full Stack Development • Artificial Intelligence • Machine Learning • Generative AI • LLM Applications • RAG • Multi-Agent AI • Intelligent Automation
 
 📫 Connect With Me
 
-GitHub: https://github.com/sapuni-pathirana
+📧 Email: sapunimadhushikapathirana@gmail.com
 
+💼 LinkedIn: sapuni-pathirana
+
+💻 GitHub: Sapuni-Pathirana
+
+🌐 Quizzly: quizzlyedu.com
+
+⭐ Thanks for visiting my profile!
