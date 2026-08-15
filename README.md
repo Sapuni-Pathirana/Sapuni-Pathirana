@@ -1,104 +1,45 @@
-Hi, I'm Sapuni Pathirana 👋
-Software Engineering Intern | AI/ML Intern | Full Stack Developer Intern
+# Hi, I'm Sapuni Pathirana 👋
 
-I'm an Information Technology undergraduate at the University of Moratuwa, passionate about building practical software solutions and exploring Artificial Intelligence, Machine Learning, and modern full-stack development.
+### Software Engineering Intern | AI/ML Intern | Full Stack Developer Intern
 
-I enjoy turning real-world problems into scalable applications by combining software engineering with AI-powered technologies.
+I'm an Information Technology undergraduate at the **University of Moratuwa**, passionate about building practical software solutions and exploring **Artificial Intelligence, Machine Learning, and modern full-stack development**.
 
-🚀 About Me
-💻 Interested in Software Engineering and Full Stack Development
-🤖 Passionate about Artificial Intelligence and Machine Learning
-🧠 Exploring Generative AI, LLMs, RAG, and Multi-Agent Systems
-🌐 Experienced in building web and mobile applications
-🔧 Interested in REST APIs, backend systems, and database-driven applications
-📚 Continuously learning modern technologies and emerging areas of software development
-🛠️ Tech Stack
+I enjoy solving real-world problems by combining software engineering principles with AI-powered technologies and continuously exploring emerging tools and development practices.
 
-Languages: Python, Java, JavaScript, TypeScript, C#
+## 🚀 About Me
 
-Frontend: React, Next.js, Vite, Tailwind CSS
+- 💻 Interested in **Software Engineering and Full Stack Development**
+- 🤖 Passionate about **Artificial Intelligence and Machine Learning**
+- 🧠 Exploring **Generative AI, LLMs, RAG, and Multi-Agent Systems**
+- 🌐 Experienced in developing **web and mobile applications**
+- 🔧 Interested in **REST APIs, backend systems, and database-driven applications**
+- 🧩 Enjoy designing and developing practical, scalable solutions
+- 📚 Continuously learning and exploring emerging technologies
 
-Backend: FastAPI, Spring Boot, Node.js, Express.js, NestJS, Django
+## 🛠️ Tech Stack
 
-AI/ML: scikit-learn, XGBoost, LightGBM, PyTorch, MLflow, RAG, LLMs, Multi-Agent AI, Explainable AI, Computer Vision
+**Languages:** Python, Java, JavaScript, TypeScript, C#
 
-Databases: PostgreSQL, MongoDB, Redis, SQLAlchemy, Prisma, ChromaDB
+**Frontend:** React, Next.js, Vite, Tailwind CSS
 
-Tools: Docker, Git, GitHub, Postman, REST APIs, JWT, OAuth
+**Backend:** FastAPI, Spring Boot, Node.js, Express.js, NestJS, Django
 
-🌟 Featured Projects
-🤖 AnalytistAI
+**AI / ML:** scikit-learn, XGBoost, LightGBM, PyTorch, MLflow, RAG, LLMs, Multi-Agent AI, Explainable AI, Computer Vision
 
-Multi-Agent AI Decision Intelligence Platform
+**Databases:** PostgreSQL, MongoDB, Redis, SQLAlchemy, Prisma, ChromaDB
 
-An AI platform for automated data analysis, ML model training, forecasting, computer vision, document Q&A, explainable AI, and report generation. Uses lightweight domain agents for Agriculture, Healthcare, and Logistics with a shared AI core.
+**Tools & Technologies:** Docker, Git, GitHub, Postman, REST APIs, JWT, OAuth
 
-Tech: React, TypeScript, FastAPI, Python, scikit-learn, XGBoost, PyTorch, ChromaDB, SHAP/LIME, MLflow
+## 🎯 Areas of Interest
 
-🔗 Repository
+**Software Engineering • Full Stack Development • Artificial Intelligence • Machine Learning • Generative AI • LLM Applications • RAG • Multi-Agent AI • Intelligent Automation**
 
-🎯 CareerSucceX
+## 📫 Connect With Me
 
-AI Career Readiness Platform
+📧 **Email:** [sapunimadhushikapathirana@gmail.com](mailto:sapunimadhushikapathirana@gmail.com)
 
-A full-stack AI platform combining CV analysis, GitHub portfolio review, mock interviews, skill verification, and personalized learning roadmaps. Uses the user's target role to provide role-specific feedback and evidence-based skill assessment.
+💼 **LinkedIn:** [sapuni-pathirana](https://www.linkedin.com/in/sapuni-pathirana-5798a2302/)
 
-Tech: React, TypeScript, Spring Boot, FastAPI, PostgreSQL, Redis, Docker, JWT, OAuth, Groq, Gemini
-
-🔗 Repository
-
-🧠 Quizzly
-
-AI-Powered Learning Hub
-
-An AI-powered learning platform that transforms course materials into summaries, mind maps, flashcards, and quizzes, providing students with a centralized interactive learning environment.
-
-Tech: React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, Redis, JWT, Docker
-
-🌐 Live Website
-
-🌍 Piyoway
-
-Tourist Guide Platform
-
-A tourism platform combining destination discovery, listings, itinerary planning, reviews, and administrative management into a single PWA-ready application.
-
-Tech: Next.js, TypeScript, NestJS, PostgreSQL, Prisma, Tailwind CSS
-
-🔗 Repository
-
-📊 Auditra
-
-Auditing & Valuation ERP
-
-A full-stack ERP designed to centralize property valuation and project management, including role-based access and mobile field data collection.
-
-Tech: Flutter, Django, PostgreSQL, REST API
-
-🔗 Repository
-
-🎮 Shiny Minds
-
-Educational Simulation Game
-
-An interactive educational game focused on life skills, emotional development, and child safety awareness through gameplay.
-
-Tech: Unity, C#, Blender
-
-🔗 Repository
-
-🎯 Areas of Interest
-
-Software Engineering • Full Stack Development • Artificial Intelligence • Machine Learning • Generative AI • LLM Applications • RAG • Multi-Agent AI • Intelligent Automation
-
-📫 Connect With Me
-
-📧 Email: sapunimadhushikapathirana@gmail.com
-
-💼 LinkedIn: sapuni-pathirana
-
-💻 GitHub: Sapuni-Pathirana
-
-🌐 Quizzly: quizzlyedu.com
+💻 **GitHub:** [Sapuni-Pathirana](https://github.com/Sapuni-Pathirana)
 
 ⭐ Thanks for visiting my profile!
